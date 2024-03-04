@@ -1,0 +1,21 @@
+.odd {
+    background-color: #e750c4;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.fatties {
+    font-weight: bold;
+}
+
+.bigger {
+    font-size: xx-large;
+}
+
+#second {
+    color: #2d1faf;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #86d754;
+}
